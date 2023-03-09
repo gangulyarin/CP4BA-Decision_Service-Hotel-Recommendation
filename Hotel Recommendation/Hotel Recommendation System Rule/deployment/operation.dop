@@ -4,4 +4,13 @@
   <uuid>c6c88aa8-11e3-4d8d-b7d6-b88930be55b9</uuid>
   <decisionModel href="../rules/decisionModel.dmo#d84dc38a-8768-4928-bfe8-9ec041ca2455"/>
   <targetRuleProject href="../../Hotel%20Recommendation%20System%20Rule#8c3d13a6-d697-4a10-beff-312aa1d79a8b"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["Hotel-Recommendation-System-Rule"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
 </com.ibm.rules.studio.model.decisionservice:Operation>
