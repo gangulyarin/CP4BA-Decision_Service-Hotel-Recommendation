@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="Hotel Recommendation System Rule">
+  <name>Hotel-Recommendation-System-Rule</name>
+  <uuid>c6c88aa8-11e3-4d8d-b7d6-b88930be55b9</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#d84dc38a-8768-4928-bfe8-9ec041ca2455"/>
+  <targetRuleProject href="../../Hotel%20Recommendation%20System%20Rule#8c3d13a6-d697-4a10-beff-312aa1d79a8b"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
